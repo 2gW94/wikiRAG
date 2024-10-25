@@ -166,11 +166,7 @@ ollama serve
 
 Распространяется под лицензией MIT. См. `LICENSE` для дополнительной информации.
 
-## Контакты
 
-Ваше Имя - [@twitter_handle](https://twitter.com/twitter_handle) - email@example.com
-
-Project Link: [https://github.com/yourusername/osdev-rag](https://github.com/yourusername/osdev-rag)
 
 ## Благодарности
 
