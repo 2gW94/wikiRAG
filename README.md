@@ -22,7 +22,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/osdev-rag.git
+https://github.com/2gW94/wikiRAG.git
 cd osdev-rag
 ```
 
@@ -51,7 +51,7 @@ brew install ollama
 
 5. Загрузите модель:
 ```bash
-ollama pull llama2
+ollama pull llama3.2
 ```
 
 ## Структура проекта
